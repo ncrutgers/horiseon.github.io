@@ -15,3 +15,5 @@
 
 
 * The application was deployed via GitHub with access to URL and repository URL.
+
+Deployed Site: https://github.com/ncrutgers/horiseon.github.io/deployments
